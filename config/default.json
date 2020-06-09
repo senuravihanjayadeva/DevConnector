@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://senura:senura@devconnector-y7pfp.mongodb.net/test?retryWrites=true&w=majority"
+}
