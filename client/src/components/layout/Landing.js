@@ -9,13 +9,13 @@ const Landing = () => {
           <h1 className="x-large">Developer Connector</h1>
           <p className="lead">
             Create a developer profile/portfolio, share posts and get help from
-            other developers
+            other developers Rajindu gona
           </p>
           <div className="buttons">
             <Link to="/register" className="btn btn-primary">
               Sign Up
             </Link>
-            <Link to="/login" className="btn btn-light">
+            <Link to="/login" className="btn  btn-light">
               Login
             </Link>
           </div>
